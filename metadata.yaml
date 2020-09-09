@@ -1,0 +1,41 @@
+_repo: Ruins-of-Buddhistic-Temples-in-Praga-ValleyTyandis-Barabudur-Mendut-and-Pawon_63057
+_version: 0.0.1
+alternative_title: Boeddhistische Tempelbouwvallen. English
+contributor:
+  translator:
+    agent_name: J. H.
+    aliases:
+    - H., J.
+    - JH
+    gutenberg_agent_id: '52257'
+    url: http://www.gutenberg.org/2009/agents/52257
+creator:
+  author:
+    agent_name: Groneman, I. (Isaac)
+    aliases:
+    - Groneman, Isaäc
+    - Groneman, Isaac
+    - Groneman, J.
+    birthdate: 1832
+    deathdate: 1912
+    gutenberg_agent_id: '52256'
+    url: http://www.gutenberg.org/2009/agents/52256
+    wikipedia: https://nl.wikipedia.org/wiki/Isa%C3%A4c_Groneman
+description: ''
+gutenberg_issued: '2020-08-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '63057'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Temples -- Indonesia -- Java'
+- !lcc 'BQ'
+- !lcsh 'Buddhist temples'
+- !lcc 'NA'
+- GITenberg
+title: Ruins of Buddhistic Temples in Prågå Valley—Tyandis Båråbudur, Mendut and
+  Pawon
+url: http://www.gutenberg.org/ebooks/63057
