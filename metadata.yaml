@@ -9,6 +9,9 @@ contributor:
     - JH
     gutenberg_agent_id: '52257'
     url: http://www.gutenberg.org/2009/agents/52257
+covers:
+- cover_type: archival
+  image_path: 63057-h/images/cover.jpg
 creator:
   author:
     agent_name: Groneman, I. (Isaac)
@@ -22,6 +25,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/52256
     wikipedia: https://nl.wikipedia.org/wiki/Isa%C3%A4c_Groneman
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/63057#Ruins-of-Buddhistic-Temples-in-Praga-ValleyTyandis-Barabudur-Mendut-and-Pawon
 gutenberg_issued: '2020-08-27'
 gutenberg_type: Text
 identifiers:
